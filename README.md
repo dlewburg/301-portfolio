@@ -18,40 +18,40 @@ Actual time needed to complete: 3 hours 25 minutes
 
 ### Feature #2: About Me Page
 
-Estimate of time needed to complete:
+Estimate of time needed to complete: 1 hour
 
-Start time:
+Start time: 2330
 
-Finish time:
+Finish time: 0005
 
-Actual time needed to complete:
+Actual time needed to complete: 35 min
 
 ### Feature #3: Projects Section
 
-Estimate of time needed to complete:
+Estimate of time needed to complete: 1 hour
 
-Start time:
+Start time: 0600
 
-Finish time:
+Finish time: 0745
 
-Actual time needed to complete:
+Actual time needed to complete: 1 hour 45 minutes
 
 ### Feature #4: Skills and Experience Sections
 
-Estimate of time needed to complete:
+Estimate of time needed to complete: 1 hour
 
-Start time:
+Start time: 0800
 
-Finish time: 2325
+Finish time: 0920
 
-Actual time needed to complete:
+Actual time needed to complete: 1 hour 20 minutes
 
 ### Feature #5: Personalize
 
-Estimate of time needed to complete:
+Estimate of time needed to complete: 1 hour
 
-Start time:
+Start time: 0930
 
-Finish time:
+Finish time: 1000
 
-Actual time needed to complete:
+Actual time needed to complete: 30 minutes

@@ -38,13 +38,14 @@ header {
 	-webkit-background-size: cover;
 	text-align: center;
 	overflow: hidden;
-	background-color: #e9d5a1;
+	background-image: url("../public/images/background.png");
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
 	padding-top: 150px;
 	padding-bottom: 0;
+	color: #98AFB2;
 }
 
 header .nav {
@@ -95,18 +96,20 @@ header h1 {
 	font-size: 400%;
 	text-align: center;
 	font-weight: 600 !important;
-	color: #353239;
+	color: #8DA4AD;
 	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 	margin: 0 auto 18px auto;
 	width: 100%;
 }
 
 .slider-image {
-	border: 5px solid #D7CAAA;
+	border: 5px solid #191C29
+	8FA4AB;
 }
 
 .slider-tab {
-	background-color: #D7CAAA;
+	background-color: #191C29
+	8FA4AB;
 	height: 25px;
 }
 
@@ -120,7 +123,7 @@ header h1 {
 }
 
 #about {
-	background: #fff;
+	background: #98AFB2;
 	overflow: hidden;
 }
 
@@ -139,7 +142,7 @@ header h1 {
 }
 
 .foto div {
-	background: #ffffff;
+	background: #98AFB2;
 	display: inline-block;
 	margin: 0 auto 5% auto;
 	padding: 10px 10px 5px;
@@ -231,7 +234,7 @@ header h1 {
 }
 
 #resume {
-	background: #efe1bd;
+	background-image: url("../public/images/background.png");
 }
 
 .experience-icon {
@@ -353,7 +356,7 @@ header h1 {
 }
 
 #portfolio {
-	background: #efe1bd;
+	background: #9FB3BF;
 	padding-bottom: 5%;
 }
 
